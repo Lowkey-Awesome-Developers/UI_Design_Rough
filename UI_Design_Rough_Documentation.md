@@ -14,7 +14,7 @@ The Last thing to note is the top right corner, the players whose go it is and t
 
 <h2>My Player UI Design</h2>
 
-<img src = "./Images/player_UI_rough.png" height = "350" width = "500"/>
+<img src = "./Images/player_UI_rough.PNG" height = "350" width = "500"/>
 
 My player UI design is very similar to the ps4 monopoly version seen above, this is because it is a well done UI and changing an aspect didn't seem worth to me.
 
